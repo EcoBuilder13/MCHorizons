@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/VillagerConfig/villagerconfig.json5"
+hash = "c09b0518db297ec1bd61d0ff468e691734978dd1a2853e49ba6b74d0ed3cb8dc"
+
+[[files]]
 file = "config/WindowTitleChanger/config.json5"
 hash = "07996395a02f8e4c4d8078e4b7614d56282e0048f1cee5ab4354c1186004eff2"
 
@@ -68,6 +72,11 @@ hash = "4754813e43ba908c01de0a8deccdd427367cbaa0502e8ebeb633049c6361c3f3"
 metafile = true
 
 [[files]]
+file = "mods/dcwa.toml"
+hash = "60134dc6ce2d30c5a16367a1b21d32d3964f5fd508654d7f4232471d9aad8163"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "f4e1da9342cd15c7c79835c952dce47b8786f3c393b9cf644ef3b5ed638ae052"
 metafile = true
@@ -124,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "8613849ff88460d1f68573874b0f98105db657eda7bb26a6d75e42e110f99a84"
+hash = "bb7df1ab172055faf2450ee3f78f34c1c7ddc7a28b111ee919c292d7eb24eff8"
 metafile = true
 
 [[files]]
