@@ -147,6 +147,11 @@ hash = "05ac14b7e41f25d5492073c716e5cdd648b1e4286282690f5485b6c300500874"
 metafile = true
 
 [[files]]
+file = "mods/semblance.toml"
+hash = "81cb2bb9a5525d321df2bea2ea5cfc3ccedfa649ac28d2be00403a397c417276"
+metafile = true
+
+[[files]]
 file = "mods/servercore.toml"
 hash = "c04e7a759cc12522f665a33cadf0fd8f182d1918ea17b7e818fee7575fca9cef"
 metafile = true
