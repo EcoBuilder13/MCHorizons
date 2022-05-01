@@ -43,6 +43,11 @@ hash = "0940f87fc8d934433725019169945f77b7c27bd4a23828286ffb68aac4810a6c"
 metafile = true
 
 [[files]]
+file = "mods/architectury-fabric.toml"
+hash = "612eb5b02d9f18e9c5327bb96373c692c72c9ebbae3541eea03feda76dcd764a"
+metafile = true
+
+[[files]]
 file = "mods/boat-fall.toml"
 hash = "fd10a35276aa7cd415906946d42fe46bfbfc580661333dfb83f08490f21d52c2"
 metafile = true
