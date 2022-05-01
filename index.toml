@@ -182,6 +182,11 @@ hash = "7c10e2599f25e36dab5f53cabbe3213082c853495b3dfc101a36b9dd7b9758b3"
 metafile = true
 
 [[files]]
+file = "mods/styledplayerlist.toml"
+hash = "6df3f3a64d0499d11583b91741ff31f908e55c688958f039bf59d707161d56cc"
+metafile = true
+
+[[files]]
 file = "mods/villagerconfig.toml"
 hash = "a6263ae7ff8961da42fc795061cbd779831c7b3e536782cf52850c066c62a580"
 metafile = true
