@@ -1,0 +1,13 @@
+name = "VillagerConfig"
+filename = "villagerconfig-3.0.2-mc-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OClpEDe3/versions/3.0.2/villagerconfig-3.0.2-mc-1.18.2.jar"
+hash-format = "sha1"
+hash = "0920347f68252255a537ed5fdbf32aa062135e74"
+
+[update]
+[update.modrinth]
+mod-id = "OClpEDe3"
+version = "Hs2eQnyl"
