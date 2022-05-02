@@ -21,6 +21,10 @@ file = "config/modmenu.json"
 hash = "f8668702eedecd2cfba95306e2909adb1719c6def92717df1e1779a3e635900f"
 
 [[files]]
+file = "config/semblance.properties"
+hash = "0eb5c22962d4bd785b5003fb035eb7bdc6744f1db3ba9074d46c60280cb47498"
+
+[[files]]
 file = "config/servercore.toml"
 hash = "3d05f2fde600b9bb5a67af9b385e12a66a4f9e523658b3b61af02123202072b0"
 
