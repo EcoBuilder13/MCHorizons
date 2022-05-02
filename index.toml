@@ -93,6 +93,10 @@ hash = "4754813e43ba908c01de0a8deccdd427367cbaa0502e8ebeb633049c6361c3f3"
 metafile = true
 
 [[files]]
+file = "mods/darkness-fabric-mc118-2.0.89-mchorizons.jar"
+hash = "0d235999df7cc1f2f0923d1100ac653c494713df4c10259d89a42aeacc4caa70"
+
+[[files]]
 file = "mods/dcwa.toml"
 hash = "60134dc6ce2d30c5a16367a1b21d32d3964f5fd508654d7f4232471d9aad8163"
 metafile = true
@@ -245,11 +249,6 @@ metafile = true
 [[files]]
 file = "mods/styledplayerlist.toml"
 hash = "6df3f3a64d0499d11583b91741ff31f908e55c688958f039bf59d707161d56cc"
-metafile = true
-
-[[files]]
-file = "mods/true-darkness.toml"
-hash = "858e0c1ecf5f750964a7086e6af4df0d8628e24f6d83220cac960a31cd97972f"
 metafile = true
 
 [[files]]
