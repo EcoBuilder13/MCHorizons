@@ -129,6 +129,11 @@ hash = "735bb894e8fd0430de8fe331347ff24c5c64643bc65f2c040f7a82fb17e8b826"
 metafile = true
 
 [[files]]
+file = "mods/interactic.toml"
+hash = "e44b74c440a66bbb0f429d8439a4395885a68f7f31f29ccfc103a520587b0702"
+metafile = true
+
+[[files]]
 file = "mods/jumpoverfences.toml"
 hash = "72036cf085640bf2b61564f85b391686a5fab9f9077fd7703609e41efa61ba12"
 metafile = true
@@ -179,6 +184,11 @@ hash = "848b034cd45ed1aaaa9830f24a9fa33d1b7cd1a5f8a785bbcbc80cad410b6e00"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.toml"
+hash = "525252bb860d002a1985a4ffbb4cee19d727dc01bc78eaee0d3881e7bfff2eca"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "fb3132af2dd8a755ad4d23d93b99166751f4c81ea1f9a74f194119d148f73844"
 metafile = true
@@ -214,6 +224,11 @@ hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.toml"
+hash = "ef3dc3153d1ef10b6ac6cd061fdeb0c50b55beaf5b65a6bd5e68fdcd40cccf7d"
+metafile = true
+
+[[files]]
 file = "mods/starlight.toml"
 hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
 metafile = true
@@ -226,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/styledplayerlist.toml"
 hash = "6df3f3a64d0499d11583b91741ff31f908e55c688958f039bf59d707161d56cc"
+metafile = true
+
+[[files]]
+file = "mods/true-darkness.toml"
+hash = "858e0c1ecf5f750964a7086e6af4df0d8628e24f6d83220cac960a31cd97972f"
 metafile = true
 
 [[files]]
