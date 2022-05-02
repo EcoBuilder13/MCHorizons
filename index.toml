@@ -17,6 +17,10 @@ file = "config/WindowTitleChanger/icons/icon32.png"
 hash = "ee95953ff556f083a8f28e59e7efe507d6f33626ac3a9788c84fe2a1ca74ab70"
 
 [[files]]
+file = "config/darkness.properties"
+hash = "6c1d90b6c84c82336d46c6407c22e6441a8c7b49f7c0099a7f0a51f46edff9b3"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "f8668702eedecd2cfba95306e2909adb1719c6def92717df1e1779a3e635900f"
 
