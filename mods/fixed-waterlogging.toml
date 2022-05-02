@@ -1,0 +1,13 @@
+name = "Fixed Waterlogging"
+filename = "fixedwaterlogging-1.0.3-1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3578/519/fixedwaterlogging-1.0.3-1.18.jar"
+hash-format = "sha1"
+hash = "1d8b3b4f7d7d90abf0689f1a7f986f7a51929c34"
+
+[update]
+[update.curseforge]
+file-id = 3578519
+project-id = 557743

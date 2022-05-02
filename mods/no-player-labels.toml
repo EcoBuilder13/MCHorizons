@@ -1,0 +1,13 @@
+name = "No Player Labels"
+filename = "noplayerlabels-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3335/591/noplayerlabels-2.0.2.jar"
+hash-format = "sha1"
+hash = "afeb63eccedec3344aa4e6ece58b4f0d25482d55"
+
+[update]
+[update.curseforge]
+file-id = 3335591
+project-id = 398788

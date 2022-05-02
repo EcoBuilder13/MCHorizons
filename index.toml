@@ -33,6 +33,14 @@ file = "config/styled-chat.json"
 hash = "8cbe53deb61a0f55eb61a8a10cd22725371d6916dd4393b9474e7338913b109c"
 
 [[files]]
+file = "mods/YungsBetterMineshafts-1.18.2-Fabric-2.0.1-mchorizons.jar"
+hash = "261f6e5ce28f7f1782c85905348be75b8d73e516a53e261331ea4cde8ab11585"
+
+[[files]]
+file = "mods/YungsBetterStrongholds-1.18.2-Fabric-2.0.1-mchorizons.jar"
+hash = "1fcdc17d721cfcd4640dcd8291b66924cb042d49f13d9f7ce184f4a7157e0e7e"
+
+[[files]]
 file = "mods/alternate-current.toml"
 hash = "62d859bdfed94ea89b998f907e7e67d6def0400c32dbee2d9938bbe39ba395d7"
 metafile = true
@@ -87,6 +95,11 @@ hash = "f4e1da9342cd15c7c79835c952dce47b8786f3c393b9cf644ef3b5ed638ae052"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "d2fbaf45c8aed07525a3d592a02242db2c2a9a76cf6c995585835282e87d24f5"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.toml"
 hash = "0348dc80342aa0b781389fadd179036d8d05362c65f7ef42287a4bee7418cf01"
 metafile = true
@@ -97,8 +110,23 @@ hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
 
 [[files]]
+file = "mods/fixed-waterlogging.toml"
+hash = "f54bf9bfddb3c546a85ccb6e91c591afb30d34b1be9bda9a0e72a942b3ad41de"
+metafile = true
+
+[[files]]
+file = "mods/i-know-what-im-doing.toml"
+hash = "d77d0fe2df4d0c37048b0cf0dbaf9ff2a5a3d1d15a3d48c61bee8e8c9e797d9e"
+metafile = true
+
+[[files]]
 file = "mods/indium.toml"
 hash = "735bb894e8fd0430de8fe331347ff24c5c64643bc65f2c040f7a82fb17e8b826"
+metafile = true
+
+[[files]]
+file = "mods/jumpoverfences.toml"
+hash = "72036cf085640bf2b61564f85b391686a5fab9f9077fd7703609e41efa61ba12"
 metafile = true
 
 [[files]]
@@ -129,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.toml"
 hash = "a73f71d58f3a3c5f01e86f32209d03d002f73768eedff9cb6f9cbd150ecb6361"
+metafile = true
+
+[[files]]
+file = "mods/no-player-labels.toml"
+hash = "6ec6300387c9ad315c1ff74b58f12771cbd9cea9b806c825bd5bede0cff1848b"
 metafile = true
 
 [[files]]
@@ -199,4 +232,9 @@ metafile = true
 [[files]]
 file = "mods/window-title-changer.toml"
 hash = "6b5c208767ccc42f96c27c7a57f2f27b9d0bea0b2fcef1b78d2439fd18458909"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api-fabric.toml"
+hash = "06280dacd1f58693322fc4b8f9cc65b46d73a51043fc175b6989b00f26d7f3e4"
 metafile = true
