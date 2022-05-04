@@ -83,8 +83,8 @@ hash = "856583ed59b9853f04a69db0e4c376cad017e83240962a2e8d0d58dfe20df78d"
 metafile = true
 
 [[files]]
-file = "mods/create-mc1.18.2_v0.4.1+534-mchorizons.jar"
-hash = "16f8933bb769965ee25bd908b3fc08af9b9956c87c2cc72a6db7e51157a24f99"
+file = "mods/create-mc1.18.2_v0.4.1+539-mchorizons.jar"
+hash = "504dd69992c9b91e2b7cc9df3c05859294c5315aa112e4c251120a2a42e0c7c4"
 
 [[files]]
 file = "mods/dark-graph.toml"
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "6bdac4c32578b063cf0d109243802a70b513ac33918e1643d66d54ecf3c9c86d"
+hash = "676194d6e58c6d8b37272ddbbfff1c0336cd7c379509569e9e60e39111b61cdf"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api-fabric.toml"
-hash = "06280dacd1f58693322fc4b8f9cc65b46d73a51043fc175b6989b00f26d7f3e4"
+hash = "83cbf868ae2dcd47190114b33904be6fe4d566a32d21047256388cacc688f71a"
 metafile = true
 
 [[files]]
@@ -277,5 +277,5 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-strongholds-fabric.toml"
-hash = "691f3d7524f8e0af3b5d37cd7d07c8c4fefb17bfb507e0795535d68ddfcfbbef"
+hash = "13eff10a7835e007666cd6c7e518465312c003a306e531f47d9343893c4f2582"
 metafile = true
