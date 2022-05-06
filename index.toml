@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.toml"
-hash = "0348dc80342aa0b781389fadd179036d8d05362c65f7ef42287a4bee7418cf01"
+hash = "34eec39f7c6dd68d98ce7ca916f4779c6f284d23593889faeeafc337b17b120c"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts-fabric.toml"
-hash = "6d72fe92f96af7ca4dfb82a852a69004ba8b13ab319eeb14fa4bdcf3590e10c3"
+hash = "cd3255946254add70b6a9372a22b1d975a91a270bcff1aaaef96b5171dee3ea1"
 metafile = true
 
 [[files]]
