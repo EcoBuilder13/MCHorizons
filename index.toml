@@ -63,8 +63,8 @@ hash = "0940f87fc8d934433725019169945f77b7c27bd4a23828286ffb68aac4810a6c"
 metafile = true
 
 [[files]]
-file = "mods/architectury-fabric.toml"
-hash = "cc31d30724f40c4168c01bbef66785cf2a614b8c6bc5ddaf0e362406dbe1842e"
+file = "mods/architectury-api.toml"
+hash = "4c8f42403eb92d84261f10b227189632d7422556d1d6907d2ef4f3a66adba1df"
 metafile = true
 
 [[files]]
@@ -83,8 +83,8 @@ hash = "856583ed59b9853f04a69db0e4c376cad017e83240962a2e8d0d58dfe20df78d"
 metafile = true
 
 [[files]]
-file = "mods/create-mc1.18.2_v0.4.1+539-mchorizons.jar"
-hash = "504dd69992c9b91e2b7cc9df3c05859294c5315aa112e4c251120a2a42e0c7c4"
+file = "mods/create-mc1.18.2_v0.4.1+548-mchorizons.jar"
+hash = "f03de4ea5acbf00bae3275444c72b88a11986a47e049b8e4dc42c0cc2c98f115"
 
 [[files]]
 file = "mods/dark-graph.toml"
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.toml"
-hash = "34eec39f7c6dd68d98ce7ca916f4779c6f284d23593889faeeafc337b17b120c"
+hash = "a2f5ac9241681699e8bcd7da4c90e9899686290f883a63c56f7009f18f731e7e"
 metafile = true
 
 [[files]]

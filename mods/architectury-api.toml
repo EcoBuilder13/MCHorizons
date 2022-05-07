@@ -1,0 +1,13 @@
+name = "Architectury API (Fabric/Forge)"
+filename = "architectury-4.4.58.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3782/873/architectury-4.4.58.jar"
+hash-format = "sha1"
+hash = "9b9bf34372c7972bc0d65bc64bd612b608ed0216"
+
+[update]
+[update.curseforge]
+file-id = 3782873
+project-id = 419699
