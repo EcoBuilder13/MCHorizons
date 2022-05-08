@@ -1,0 +1,13 @@
+name = "SimplerHarvest"
+filename = "Harvest-fabric-1.16.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3307/870/Harvest-fabric-1.16.1-1.0.1.jar"
+hash-format = "sha1"
+hash = "a6e102dba74b885a5e3ba34124d72ef17d84005a"
+
+[update]
+[update.curseforge]
+file-id = 3307870
+project-id = 481720
