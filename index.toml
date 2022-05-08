@@ -97,8 +97,8 @@ hash = "856583ed59b9853f04a69db0e4c376cad017e83240962a2e8d0d58dfe20df78d"
 metafile = true
 
 [[files]]
-file = "mods/create-mc1.18.2_v0.4.1+548-mchorizons.jar"
-hash = "f03de4ea5acbf00bae3275444c72b88a11986a47e049b8e4dc42c0cc2c98f115"
+file = "mods/create-mc1.18.2_v0.4.1+549-mchorizons.jar"
+hash = "d156b2714aa4da5c26ed65964e166a854c2878cfb0450b3418da153b124941f4"
 
 [[files]]
 file = "mods/dark-graph.toml"
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "0af892ef2bbd0cf835a44bb73cbf69a2fe82ea3e3bd35bac6d233d268689aa27"
+hash = "c81001adcd2fae9c170ac118c07a2860bdffe89286e8e6fce2176427ad123a75"
 metafile = true
 
 [[files]]
