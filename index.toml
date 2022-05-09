@@ -82,8 +82,18 @@ hash = "335ae666f95c0916d3573e35daba855f0dfe2f39e9b5a16a35b7318ab24107a2"
 metafile = true
 
 [[files]]
+file = "mods/better-bad-omen.toml"
+hash = "8fbd67fe5eae199dece105b27b8cca3e6815648099c33855f194d7d635ec5834"
+metafile = true
+
+[[files]]
 file = "mods/boat-fall.toml"
 hash = "fd10a35276aa7cd415906946d42fe46bfbfc580661333dfb83f08490f21d52c2"
+metafile = true
+
+[[files]]
+file = "mods/chalk.toml"
+hash = "9d964354c8312bf29747e4ad32fb3967f868b8ada1de92ed6b25742eb87ea3e8"
 metafile = true
 
 [[files]]
