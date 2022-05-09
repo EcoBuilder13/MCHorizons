@@ -58,7 +58,7 @@ hash = "8cbe53deb61a0f55eb61a8a10cd22725371d6916dd4393b9474e7338913b109c"
 
 [[files]]
 file = "mods/alternate-current.toml"
-hash = "62d859bdfed94ea89b998f907e7e67d6def0400c32dbee2d9938bbe39ba395d7"
+hash = "37d205ca560e1eba1cda07510735744e10b66a67c23e78c78392d47c3b7e2158"
 metafile = true
 
 [[files]]
@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.toml"
-hash = "4c8f42403eb92d84261f10b227189632d7422556d1d6907d2ef4f3a66adba1df"
+hash = "a52e03454af429c010c3f282b0367142c7038b861629f0c0ed09010ebe1a5769"
 metafile = true
 
 [[files]]
