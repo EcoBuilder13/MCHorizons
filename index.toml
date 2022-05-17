@@ -107,8 +107,9 @@ hash = "856583ed59b9853f04a69db0e4c376cad017e83240962a2e8d0d58dfe20df78d"
 metafile = true
 
 [[files]]
-file = "mods/create-mc1.18.2_v0.4.1+557-mchorizons.jar"
-hash = "cdb67cea2398fc36b955d9dbe3766466ae60b3ea8d7077fcb8a9c8c20bc519f7"
+file = "mods/create-fabric.toml"
+hash = "15fcca6a823bd7a980eee0a57ecc48396b4b083e8165387700e62615af391c57"
+metafile = true
 
 [[files]]
 file = "mods/dark-graph.toml"
