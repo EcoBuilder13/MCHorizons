@@ -244,6 +244,11 @@ hash = "21a97d8ea7a2015354259ac446194002beb6c5270939c5411796a8c40b07473d"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "51b735f00031dc7ddbb390dae266953bfbab4e7a3018a824751b149757489a4a"
+metafile = true
+
+[[files]]
 file = "mods/phonos.toml"
 hash = "848b034cd45ed1aaaa9830f24a9fa33d1b7cd1a5f8a785bbcbc80cad410b6e00"
 metafile = true
