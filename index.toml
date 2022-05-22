@@ -17,6 +17,10 @@ file = "config/WindowTitleChanger/icons/icon32.png"
 hash = "ee95953ff556f083a8f28e59e7efe507d6f33626ac3a9788c84fe2a1ca74ab70"
 
 [[files]]
+file = "config/createaddition-common.toml"
+hash = "bc35e897cd74bac7406ae809f5979bf068307c07d1cf7fa2bca7e537c1c165aa"
+
+[[files]]
 file = "config/darkness.properties"
 hash = "6c1d90b6c84c82336d46c6407c22e6441a8c7b49f7c0099a7f0a51f46edff9b3"
 
@@ -31,6 +35,10 @@ hash = "74e959775fb0780dc1afbb70206ea115fd91a2d93ce58e4fe6799e5129220638"
 [[files]]
 file = "config/modmenu.json"
 hash = "f8668702eedecd2cfba95306e2909adb1719c6def92717df1e1779a3e635900f"
+
+[[files]]
+file = "config/numismatic-overhaul.json5"
+hash = "5c267ddf5f5f89798d5df7fc3f7d6cb81b1595e61aadf41af611d2ff1c7c8c10"
 
 [[files]]
 file = "config/presencefootsteps/updater.json"
@@ -97,6 +105,11 @@ hash = "9d964354c8312bf29747e4ad32fb3967f868b8ada1de92ed6b25742eb87ea3e8"
 metafile = true
 
 [[files]]
+file = "mods/cleancut.pw.toml"
+hash = "a1497ac93d23e54a85636f91140656e2c8d9bd45fb925963132880289c1de8b4"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "8201c0a16ace201405172e56292843cc99d8d675f1e323684943b9cee393acb1"
 metafile = true
@@ -109,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.toml"
 hash = "d2ecfefe5edc7d4f2667bdf76706ebf7693ebff3d98b6b653663fd3f0004bae7"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "d8e47a73a7c9e962ff3c14249b265f06c6281b85d289f6ec65b864aa92721069"
 metafile = true
 
 [[files]]
@@ -128,6 +146,11 @@ hash = "0d235999df7cc1f2f0923d1100ac653c494713df4c10259d89a42aeacc4caa70"
 [[files]]
 file = "mods/dcwa.toml"
 hash = "60134dc6ce2d30c5a16367a1b21d32d3964f5fd508654d7f4232471d9aad8163"
+metafile = true
+
+[[files]]
+file = "mods/extended-clouds.pw.toml"
+hash = "35bddb3afab9c04df06027c810216c356c261f748f710443315c64bbaa837564"
 metafile = true
 
 [[files]]
@@ -213,6 +236,11 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry.toml"
 hash = "e8814a83e235e82705f7fbccc5f91c8b1a0b679af439e38ab48f0ddafa623db7"
+metafile = true
+
+[[files]]
+file = "mods/numismatic-overhaul.pw.toml"
+hash = "21a97d8ea7a2015354259ac446194002beb6c5270939c5411796a8c40b07473d"
 metafile = true
 
 [[files]]
