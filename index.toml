@@ -80,8 +80,8 @@ hash = "0940f87fc8d934433725019169945f77b7c27bd4a23828286ffb68aac4810a6c"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.toml"
-hash = "bdd490e9e4fd643d7f4b1024a6000a4e7fbece47986e5950cebd7f163de764e8"
+file = "mods/architectury-api.pw.toml"
+hash = "91096af9b96991b06ac07a6e08fbcfe21c233d623a9e595b8ab60585fb6e5c7b"
 metafile = true
 
 [[files]]
