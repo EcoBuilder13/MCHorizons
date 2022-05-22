@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.toml"
-hash = "8d60a7399c7cab7c8092ea9f3eb8d9868f764926691043e08885ed064b3b3401"
+hash = "bdd490e9e4fd643d7f4b1024a6000a4e7fbece47986e5950cebd7f163de764e8"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "fb3132af2dd8a755ad4d23d93b99166751f4c81ea1f9a74f194119d148f73844"
+hash = "e0f3295cc26be647264fd0f8e188a194b53d89f3bd9823a45b6e8336b5e4211f"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts-fabric.toml"
-hash = "cd3255946254add70b6a9372a22b1d975a91a270bcff1aaaef96b5171dee3ea1"
+hash = "3c78fbc0aeba672424eb457f0fabdf3b92ba2975066f089e7e769b8d32f828f8"
 metafile = true
 
 [[files]]

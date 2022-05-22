@@ -1,12 +1,12 @@
 name = "MCHorizons"
 author = "EcoBuilder13"
 version = "1.0.0"
-pack-format = "packwiz:1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "eed718b84413e437dd8d307a040359da19772e53557c3eca03c892ad2cdcbb74"
+hash = "179a50d1dcda7f6ee4e3beb71bbaf6ee6aa7a39ea27e0bfb43e37fbeb6cdb417"
 
 [versions]
 fabric = "0.14.6"
