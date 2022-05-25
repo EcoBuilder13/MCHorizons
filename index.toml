@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "d8e47a73a7c9e962ff3c14249b265f06c6281b85d289f6ec65b864aa92721069"
+hash = "e6296824efedc26529ffde9c9f462b9d2c397de447b8a8827724863ffe3654d3"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.toml"
-hash = "ef3dc3153d1ef10b6ac6cd061fdeb0c50b55beaf5b65a6bd5e68fdcd40cccf7d"
+hash = "1fe9aa5d3d49e8a426236ba189b751a0421b8ea56eb890b9dc794f53aea915d4"
 metafile = true
 
 [[files]]
