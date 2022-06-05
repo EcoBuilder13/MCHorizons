@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "91096af9b96991b06ac07a6e08fbcfe21c233d623a9e595b8ab60585fb6e5c7b"
+hash = "1ec5c09edc8d27af569ef4e087f1e74cf175e43de0172316a1fffd28290d1bd9"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.toml"
-hash = "b8eeaa92aa2dd065415afd6c449f8c785d387a9f27fc5d6e40e35c31ac6616b0"
+hash = "3816ff9883e6d76e6cee8daa4f1b3d3e0e4f0abc605457c62ba81791e4ace394"
 metafile = true
 
 [[files]]
@@ -140,22 +140,18 @@ hash = "4754813e43ba908c01de0a8deccdd427367cbaa0502e8ebeb633049c6361c3f3"
 metafile = true
 
 [[files]]
-file = "mods/darkness-fabric-mc118-2.0.89-mchorizons.jar"
-hash = "0d235999df7cc1f2f0923d1100ac653c494713df4c10259d89a42aeacc4caa70"
-
-[[files]]
 file = "mods/dcwa.toml"
 hash = "60134dc6ce2d30c5a16367a1b21d32d3964f5fd508654d7f4232471d9aad8163"
 metafile = true
 
 [[files]]
 file = "mods/extended-clouds.pw.toml"
-hash = "35bddb3afab9c04df06027c810216c356c261f748f710443315c64bbaa837564"
+hash = "dd0905b3ca5fcffc9680217cb390ab187ef28eae006bee49d6ceafcfcf8f0db8"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "736583b1e65ea2d82385279e785ed5ffe0bb52387c6c624d9b61d6366c4ccbc5"
+hash = "bb9125b211bd88a79b263a0576aabb58446ebdabfa57f920866a56f2c8ff87ec"
 metafile = true
 
 [[files]]
@@ -260,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "c0e2ebc766c8680d6845ed6694f5d89ab418f67217059320d681b5d1ccdac502"
+hash = "ceb2e3aef3707deb09ecacee8af38fe2b45b4f33af91f06384144d81c343cfdf"
 metafile = true
 
 [[files]]
@@ -321,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/styledplayerlist.toml"
 hash = "6df3f3a64d0499d11583b91741ff31f908e55c688958f039bf59d707161d56cc"
+metafile = true
+
+[[files]]
+file = "mods/true-darkness.pw.toml"
+hash = "fc08346de3d1f134796e6b8a88470cfca55f610445e210e0fced2fd2caaff378"
 metafile = true
 
 [[files]]
