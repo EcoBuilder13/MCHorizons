@@ -340,6 +340,11 @@ hash = "83cbf868ae2dcd47190114b33904be6fe4d566a32d21047256388cacc688f71a"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-desert-temples-fabric.pw.toml"
+hash = "70cc49f32d0b64993b6191f7577999d76a160434e157e398cac84be821305fc6"
+metafile = true
+
+[[files]]
 file = "mods/yungs-better-mineshafts-fabric.toml"
 hash = "3c78fbc0aeba672424eb457f0fabdf3b92ba2975066f089e7e769b8d32f828f8"
 metafile = true
@@ -347,4 +352,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds-fabric.toml"
 hash = "13eff10a7835e007666cd6c7e518465312c003a306e531f47d9343893c4f2582"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts-fabric.pw.toml"
+hash = "1fbc24ca586a8a27a786dd889dc24a60ad511e2d1915a5ad79e7245c4875d642"
 metafile = true
