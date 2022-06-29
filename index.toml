@@ -66,7 +66,7 @@ hash = "8cbe53deb61a0f55eb61a8a10cd22725371d6916dd4393b9474e7338913b109c"
 
 [[files]]
 file = "mods/alternate-current.toml"
-hash = "e2030b544b5a68ca886c502b2c6b5e6e02d5480173c7c0d4899009c845ca231b"
+hash = "76ce5a5af3d9b9256f99b0ca67e82d61181497054899ee5cdc93119ebc1c313e"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.toml"
-hash = "88a8c9ca3ed1277f5304a12f1e318076ae51e8873daea640e7a1e01b23d9f084"
+hash = "144510fd16b0c523a1bb1be05ce4e46a92551636cf0c20425f77dd13de3c2c2c"
 metafile = true
 
 [[files]]
@@ -155,8 +155,8 @@ hash = "e827579af29e5db22e80d7dfc61aee87e004c23880eff6a1391fa3e265dd3f56"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.toml"
-hash = "d2fbaf45c8aed07525a3d592a02242db2c2a9a76cf6c995585835282e87d24f5"
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "674b69231bf37773aadd3a03e40288abbf0ea312b6a662b200db488b8942bbd9"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/i-know-what-im-doing.toml"
-hash = "d77d0fe2df4d0c37048b0cf0dbaf9ff2a5a3d1d15a3d48c61bee8e8c9e797d9e"
+hash = "6cf92ecb0b18ab503387cf8f67a494bc9c0d6b7c74b6f448b07afa5d4c9e5b05"
 metafile = true
 
 [[files]]
@@ -216,12 +216,12 @@ metafile = true
 
 [[files]]
 file = "mods/mealapi.toml"
-hash = "b10350c90e82c86b06fbaa54c430daff02eb3878cf0082c9f84b54b39a005a94"
+hash = "4628ac5fb31672dd23f7bc521d7e6fa7f8c12606b782b51bd4abd8dde0f834a8"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "8f501b0b0f968e3b4819219c5fd5c656500bb0a2736cafff092ce7279fe85574"
+hash = "d82c06cc5c3e67835f000f07aff22e3aa96bcf1b08c0a86c0a15bb87e7a807a8"
 metafile = true
 
 [[files]]
@@ -251,17 +251,17 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.toml"
-hash = "525252bb860d002a1985a4ffbb4cee19d727dc01bc78eaee0d3881e7bfff2eca"
+hash = "415ef9206b1d70d6eb1de4436322c6d56e84066ff8a369538c4e5e0911372654"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "3efeee5800eb609d02837d650d3d7724c681053cdb886a8cabe5988d563e034f"
+hash = "0a0992a0b15e9dac60d43bf53fb46cc87ae0679401a3dd45641205d6de536c51"
 metafile = true
 
 [[files]]
 file = "mods/sandwichable.toml"
-hash = "05ac14b7e41f25d5492073c716e5cdd648b1e4286282690f5485b6c300500874"
+hash = "c470277ad1b6c28cfeafb4e091e568e50ae27df19392ae0fd256b804951f3e9f"
 metafile = true
 
 [[files]]
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts-fabric.toml"
-hash = "3c78fbc0aeba672424eb457f0fabdf3b92ba2975066f089e7e769b8d32f828f8"
+hash = "a2b44e801eb8cb68f237c216b584b8361f04d2dbad658d97cf5c55408adc643b"
 metafile = true
 
 [[files]]
